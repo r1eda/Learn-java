@@ -1,0 +1,3 @@
+# Learn Java
+
+This guide offers a detailed introduction to Java, a widely-used, object-oriented programming language. It covers fundamental concepts, syntax, and features to help both beginners and intermediate programmers build a solid understanding of Java. Topics include basic syntax, data types, control structures, object-oriented programming principles, and advanced topics like exception handling .
